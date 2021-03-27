@@ -1,0 +1,16 @@
+{
+  "name": "nextcrud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/allanhal/nextcrud.git",
+  "author": "Allan <allan.hal@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^10.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
